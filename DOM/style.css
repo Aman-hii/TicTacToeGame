@@ -1,0 +1,14 @@
+h1{
+    color: aquamarine;
+    background-color: azure;
+}
+div{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    text-align: center;
+    border-color: black;
+    background-color: azure;
+    margin: 2px;
+    
+}
